@@ -1,0 +1,11 @@
+d → O argumento é dado na forma inteiro decimal.
+o → O argumento é apresentado em octal (inteiro).
+x → O argumento é dado na forma inteiro hexadecimal.
+u → O argumento é considerado decimal inteiro sem sinal.
+c → O argumento é um caractere único.
+s → O argumento é uma cadeia de caracteres (string).
+e → O argumento é dado como float ou double em notação científica (com expoente).
+f → O argumento é dado como float ou double em notação decimal comum (sem expoente).
+g → Usar "E" ou "F", conforme a necessidade.
+p → O argumento é um pointer (TC).
+% → Reproduz o próprio símbolo "%".
